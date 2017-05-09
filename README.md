@@ -27,7 +27,8 @@ TensorFlow: 1.0.1
 
 <img src="Images/model.png" height="400"/>
 
--- In Keras --
+# In Keras 
+
 <img src="Images/model1.png" height="400"/>3
 
 
@@ -59,4 +60,4 @@ TensorFlow: 1.0.1
 ---
 # Evaluation 
 
- <center> Chau's BiDAF Model (Single)      -- 5Epos --        EM : 50.141 - F1: 60.981 <center >
+ Chau's BiDAF Model (Single)      -- 5Epos --        EM : 50.141 - F1: 60.981 
