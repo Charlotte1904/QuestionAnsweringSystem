@@ -43,16 +43,20 @@ TensorFlow: 1.0.1
 
 
 
- #  <center> Predictions <center>
+ #  Predictions 
 ----
-<img src="Images/boundarypred.png" height="400"/>
+<img src="Images/boundarypred.png" height="200"/>
 
 
 
-# <center> WAITING FOR THE NEURAL NETWORK TO TRAIN <center>
+# WAITING FOR THE NEURAL NETWORK TO TRAIN 
 ----
-<img src="https://www.wired.com/wp-content/uploads/images_blogs/design/2013/09/Boglio_05.gif" height="50"/>
+<img src="https://www.wired.com/wp-content/uploads/images_blogs/design/2013/09/Boglio_05.gif" height="500"/>
+
+
+
+
 ---
-
+# Evaluation 
 
  <center> Chau's BiDAF Model (Single)      -- 5Epos --        EM : 50.141 - F1: 60.981 <center >
