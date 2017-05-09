@@ -1,6 +1,3 @@
-https://github.com/Charlotte1904/QuestionAnsweringSystem/blob/master/README.md
-
-
 
 # Context
 
