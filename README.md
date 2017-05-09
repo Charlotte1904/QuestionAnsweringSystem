@@ -10,7 +10,7 @@ The Stanford Question Answering Dataset (SQuAD) is a reading comprehension datas
 
 There are two files to help you get started with the dataset and evaluate your models:
 
-Download here[https://rajpurar.github.io/SQuAD-explorer/]
+Download [here](https://rajpurar.github.io/SQuAD-explorer/)
 
 train-v1.1.json 
 dev-v1.1.json
@@ -21,23 +21,38 @@ TensorFlow: 1.0.1
 
 # Model 
 
- **Inspired by: ** Minjoon Seol, Aniruddha Kembhavi, Ali Farhadi, Hananneh Hajishirzi
+ **Inspired by:** Minjoon Seol, Aniruddha Kembhavi, Ali Farhadi, Hananneh Hajishirzi
 
-   University of Washington, Allen Institute for Artificial Intelligence
+  University of Washington, Allen Institute for Artificial Intelligence
 
-<img src="Images/model.png" height="300"/>
+<img src="Images/model.png" height="400"/>
 
 -- In Keras --
-<img src="Images/model1.png" height="500"/>3
+<img src="Images/model1.png" height="400"/>3
 
 
 # Intuitive Explanation
 
 
 ----
-<img src="Images/layers.png" height="500"/>
+<img src="Images/layers.png" height="600"/>
 
 ----
 
-<img src="Images/output1.png" height="500"/>
+<img src="Images/output1.png" height="400"/>
 
+
+
+ #  <center> Predictions <center>
+----
+<img src="Images/boundarypred.png" height="400"/>
+
+
+
+# <center> WAITING FOR THE NEURAL NETWORK TO TRAIN <center>
+----
+<img src="https://www.wired.com/wp-content/uploads/images_blogs/design/2013/09/Boglio_05.gif" height="50"/>
+---
+
+
+ <center> Chau's BiDAF Model (Single)      -- 5Epos --        EM : 50.141 - F1: 60.981 <center >
