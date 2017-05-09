@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+# --author: wentaozhu
+
 from __future__ import absolute_import
 import numpy as np
 
@@ -8,7 +10,7 @@ from keras.callbacks import *
 # from visualizer import *
 from keras.models import *
 from keras.optimizers import *
-from keras.utils.np_utils import to_categorical#, accuracy
+from keras.utils.np_utils import to_categorical #, accuracy
 from keras.layers.core import *
 from keras.layers import Input, Embedding, LSTM, Dense, merge, TimeDistributed, Recurrent
 
